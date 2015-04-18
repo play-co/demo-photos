@@ -1,0 +1,17 @@
+{
+  "appID": "1c75170784814d2eb9db10a36ce8a470",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#"
+  },
+  "author": "Martin Hunt",
+  "shortName": "demophotos",
+  "studio": {
+    "domain": "gameclosure.com",
+    "name": "Game Closure"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "Demo Photos"
+}
